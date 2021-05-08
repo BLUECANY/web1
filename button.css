@@ -1,0 +1,11 @@
+#Playbutton.input{
+    color: white;
+    background-color: blue;
+    box-shadow: black;
+    text-decoration: none;
+    width: 50px;
+    height: 30px;
+}
+#Background{
+    background-color: gray;
+}
